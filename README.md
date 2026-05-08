@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,45:7f1d1d,100:f97316&text=TAIP%20GONE%20SISTEMA%20CLOUD&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=Anakin%20mode%20activated%20%7C%20Building%20systems%20with%20the%20Force&descAlignY=58&animation=fadeIn" alt="Anakin inspired banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,45:7f1d1d,100:f97316&text=denkai_urahara&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Anakin%20mode%20activated%20%7C%20Building%20systems%20with%20the%20Force&descAlignY=58&animation=fadeIn" alt="Anakin inspired banner" />
 </p>
 
 <p align="center">
