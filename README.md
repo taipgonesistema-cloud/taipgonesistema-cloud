@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,45:7f1d1d,100:f97316&text=denkai_urahara&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Anakin%20mode%20activated%20%7C%20Building%20systems%20with%20the%20Force&descAlignY=58&animation=fadeIn" alt="Anakin inspired banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:120000,100:050505&text=denkai_urahara&fontColor=ff1f1f&fontSize=42&fontAlignY=38&desc=Anakin%20mode%20activated%20%7C%20red%20saber%20energy&descAlignY=58&descSize=18&animation=fadeIn" alt="Darth Vader inspired black and red banner" />
 </p>
 
 <p align="center">
