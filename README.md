@@ -9,7 +9,7 @@
 <h1 align="center">The code is strong with this one.</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=900&color=F97316&center=true&vCenter=true&width=720&lines=Fullstack+Developer;Cloud+%26+Automation;WhatsApp+Systems;Dashboards+and+APIs;From+Tatooine+to+Production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=900&color=F97316&center=true&vCenter=true&width=720&lines=denkai;Fullstack+Developer;Cloud+%26+Automation;WhatsApp+Systems;Dashboards+and+APIs" alt="Typing SVG" />
 </p>
 
 <p align="center">
