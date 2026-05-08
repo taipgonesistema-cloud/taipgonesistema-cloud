@@ -44,22 +44,55 @@ Mindset:        less talk, more deploy
 
 ## Featured Project
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/taipgonesistema-cloud/pulse-hub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=taipgonesistema-cloud&repo=pulse-hub&theme=radical&hide_border=true&title_color=f97316&icon_color=f97316" alt="Pulse Hub repository" />
+    <img src="https://img.shields.io/badge/Pulse%20Hub-Open%20Repository-f97316?style=for-the-badge&logo=github&logoColor=white" alt="Pulse Hub repository" />
   </a>
-</p>
+  <br />
+  <br />
+  <table>
+    <tr>
+      <td align="center"><strong>Pulse Hub</strong></td>
+    </tr>
+    <tr>
+      <td align="center">Omnichannel CRM with WhatsApp, realtime dashboard, Go API, Next.js, Postgres and Redis.</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/taipgonesistema-cloud/pulse-hub">View repository</a></td>
+    </tr>
+  </table>
+</div>
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=taipgonesistema-cloud&show_icons=true&theme=radical&hide_border=true&title_color=f97316&icon_color=f97316" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=taipgonesistema-cloud&theme=radical&hide_border=true&ring=f97316&fire=f97316&currStreakLabel=f97316" alt="GitHub streak" />
-</p>
+<div align="center">
+  <a href="https://github.com/taipgonesistema-cloud?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-111111?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
+  </a>
+  <a href="https://github.com/taipgonesistema-cloud?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-7f1d1d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/taipgonesistema-cloud">
+    <img src="https://img.shields.io/badge/Profile-f97316?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taipgonesistema-cloud&theme=redical&hide_border=true&bg_color=0d1117&color=f97316&line=ef4444&point=facc15" alt="GitHub activity graph" />
-</p>
+<br />
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>Focus</strong></td>
+      <td align="center"><strong>Stack</strong></td>
+      <td align="center"><strong>Shipping</strong></td>
+    </tr>
+    <tr>
+      <td align="center">SaaS and automation</td>
+      <td align="center">Next.js, Go, Postgres, Redis</td>
+      <td align="center">Production-ready apps</td>
+    </tr>
+  </table>
+</div>
 
 ## Code Philosophy
 
