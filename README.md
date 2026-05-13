@@ -93,9 +93,17 @@ Anakin mode: *less talk, more deploy.* ⚡
 
 ---
 
-## 💬 The Chosen One Says
+## ⚡ Anakin Mode Activated
 
-> *"From my point of view, the code is elegant!"*
+<div align="center">
+
+### "You underestimate my power!"
+<img src="https://media.giphy.com/media/hwj7MQ3XDPVAI/giphy.gif" width="300" height="200">
+
+### The Chosen One's Wrath
+<img src="https://media.tenor.com/anakin-skywalker-star-wars-revenge-of-the-sith-hayden-christensen-devastated-angry-gif-15446312513023459659.gif" width="300" height="200">
+
+</div>
 
 ---
 
