@@ -78,32 +78,24 @@ const denkai_urahara = {
     <td width="50%">
       <h3>Pulse Hub</h3>
       <p>Omnichannel CRM and WhatsApp support hub with realtime dashboards, backend services and operational workflows.</p>
-      <a href="https://github.com/taipgonesistema-cloud/pulse-hub">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=taipgonesistema-cloud&repo=pulse-hub&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2D20&icon_color=FF6B00&text_color=C9D1D9" alt="pulse-hub" />
-      </a>
+      <a href="https://github.com/taipgonesistema-cloud/pulse-hub"><strong>Open repository -></strong></a>
     </td>
     <td width="50%">
       <h3>WBuy Wholesale API</h3>
       <p>API layer for wholesale operations, integrations and business automation flows.</p>
-      <a href="https://github.com/taipgonesistema-cloud/wbuy-wholesale-api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=taipgonesistema-cloud&repo=wbuy-wholesale-api&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2D20&icon_color=FF6B00&text_color=C9D1D9" alt="wbuy-wholesale-api" />
-      </a>
+      <a href="https://github.com/taipgonesistema-cloud/wbuy-wholesale-api"><strong>Open repository -></strong></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>Backend Print</h3>
       <p>Backend service focused on print workflows, automation and operational reliability.</p>
-      <a href="https://github.com/taipgonesistema-cloud/backend-print">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=taipgonesistema-cloud&repo=backend-print&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2D20&icon_color=FF6B00&text_color=C9D1D9" alt="backend-print" />
-      </a>
+      <a href="https://github.com/taipgonesistema-cloud/backend-print"><strong>Open repository -></strong></a>
     </td>
     <td width="50%">
       <h3>Stitch Tracker</h3>
       <p>Project tracking system built to keep delivery, visibility and execution under control.</p>
-      <a href="https://github.com/taipgonesistema-cloud/stitch-tracker">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=taipgonesistema-cloud&repo=stitch-tracker&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2D20&icon_color=FF6B00&text_color=C9D1D9" alt="stitch-tracker" />
-      </a>
+      <a href="https://github.com/taipgonesistema-cloud/stitch-tracker"><strong>Open repository -></strong></a>
     </td>
   </tr>
 </table>
@@ -112,8 +104,12 @@ const denkai_urahara = {
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=taipgonesistema-cloud&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2D20&icon_color=FF6B00&text_color=C9D1D9&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taipgonesistema-cloud&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2D20&text_color=C9D1D9" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taipgonesistema-cloud&theme=radical" alt="GitHub profile summary" />
+
+  <br />
+
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taipgonesistema-cloud&theme=radical" alt="Repositories per language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taipgonesistema-cloud&theme=radical" alt="Most committed languages" />
 
   <br />
 
