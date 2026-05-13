@@ -153,7 +153,7 @@ const denkai_urahara = {
 
 ### "You underestimate my power."
 
-<img src="https://media.tenor.com/anakin-skywalker-star-wars-revenge-of-the-sith-hayden-christensen-devastated-angry-gif-15446312513023459659.gif" width="360" alt="Anakin Skywalker" />
+<img src="https://media.tenor.com/GcBn0Ve17XYAAAAC/anakin-anakin-skywalker.gif" width="360" alt="Anakin Skywalker" />
 
 <br />
 <br />
