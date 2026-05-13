@@ -87,15 +87,10 @@ const denkai_urahara = {
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td colspan="2">
       <h3>Backend Print</h3>
       <p>Backend service focused on print workflows, automation and operational reliability.</p>
       <a href="https://github.com/taipgonesistema-cloud/backend-print"><strong>Open repository -></strong></a>
-    </td>
-    <td width="50%">
-      <h3>Stitch Tracker</h3>
-      <p>Project tracking system built to keep delivery, visibility and execution under control.</p>
-      <a href="https://github.com/taipgonesistema-cloud/stitch-tracker"><strong>Open repository -></strong></a>
     </td>
   </tr>
 </table>
