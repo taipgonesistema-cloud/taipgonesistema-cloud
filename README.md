@@ -75,23 +75,25 @@ const denkai_urahara = {
 
 <table>
   <tr>
-    <td width="50%">
+    <td colspan="2" width="50%">
       <h3>Pulse Hub</h3>
       <p>Omnichannel CRM and WhatsApp support hub with realtime dashboards, backend services and operational workflows.</p>
       <a href="https://github.com/taipgonesistema-cloud/pulse-hub"><strong>Open repository -></strong></a>
     </td>
-    <td width="50%">
+    <td colspan="2" width="50%">
       <h3>WBuy Wholesale API</h3>
       <p>API layer for wholesale operations, integrations and business automation flows.</p>
       <a href="https://github.com/taipgonesistema-cloud/wbuy-wholesale-api"><strong>Open repository -></strong></a>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td width="25%"></td>
+    <td colspan="2" width="50%" align="center">
       <h3>Backend Print</h3>
       <p>Backend service focused on print workflows, automation and operational reliability.</p>
       <a href="https://github.com/taipgonesistema-cloud/backend-print"><strong>Open repository -></strong></a>
     </td>
+    <td width="25%"></td>
   </tr>
 </table>
 
@@ -120,29 +122,6 @@ const denkai_urahara = {
 [ACTIVE] Improving cloud infrastructure, deploy pipelines and backend reliability
 [MODE]   Anakin protocol enabled: ship fast, keep control, scale clean
 ```
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## Transmission Channel
-
-<div align="center">
-
-  <a href="https://github.com/taipgonesistema-cloud">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://github.com/taipgonesistema-cloud/pulse-hub">
-    <img src="https://img.shields.io/badge/Portfolio-Pulse%20Hub-FF6B00?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/denkai-urahara">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-</div>
-
----
 
 <div align="center">
 
